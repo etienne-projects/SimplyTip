@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="359.077" height="126" viewBox="0 0 359.077 126">
+  <g id="top-img" transform="translate(0.077)">
+    <g id="logo" transform="translate(88.997 48)">
+      <text id="SimplyTip" fill="#707070" font-size="30" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="29">SimplyTip</tspan></text>
+      <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(141 2)" fill="#c6c2c2" stroke="#707070" stroke-width="1">
+        <circle cx="23.5" cy="23.5" r="23.5" stroke="none"/>
+        <circle cx="23.5" cy="23.5" r="23" fill="none"/>
+      </g>
+      <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(154 7)" fill="#d8d8d8" stroke="#707070" stroke-width="1">
+        <circle cx="21" cy="21" r="21" stroke="none"/>
+        <circle cx="21" cy="21" r="20.5" fill="none"/>
+      </g>
+      <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(167 3)" fill="#d08815" stroke="#707070" stroke-width="1">
+        <circle cx="18" cy="18" r="18" stroke="none"/>
+        <circle cx="18" cy="18" r="17.5" fill="none"/>
+      </g>
+    </g>
+    <text id="_000_WE_St_Zero_ZZ_00000" data-name="000 WE St,
+Zero, ZZ, 00000" transform="translate(108 100)" fill="#707070" font-size="10" font-family="HelveticaNeue, Helvetica Neue"><tspan x="46.49" y="10">000 WE St,</tspan><tspan x="35.745" y="22">Zero, ZZ, 00000</tspan></text>
+    <g id="Path_22" data-name="Path 22" transform="translate(-0.077)" fill="#ededed">
+      <path d="M 66.57693481445312 77.5 L 1.087209820747375 77.5 L 30.1719970703125 43.57300186157227 L 66.57693481445312 1.345713019371033 L 66.57693481445312 77.5 Z" stroke="none"/>
+      <path d="M 66.07693481445312 77 L 66.07693481445312 2.691409826278687 L 30.55161094665527 43.89842224121094 L 2.174440383911133 77 L 66.07693481445312 77 M 67.07693481445312 78 L 7.405598694276705e-07 78 L 29.79240036010742 43.24757766723633 L 67.07693481445312 0 L 67.07693481445312 78 Z" stroke="none" fill="#707070"/>
+    </g>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="24" height="58" transform="translate(335 30)" fill="none"/>
+  </g>
+</svg>
