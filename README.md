@@ -23,7 +23,7 @@ JavaScript
 
 
 ## [How To Use](#how-to-use)
-There are place for users to input bill and percentage amounts.  
+There are places for users to input bill and percentage amounts.  
 After entering a bill amount and percent amount, user should press "Run The Numbers" button to submit user input.  
 The tip amount and the final bill including tip will show in the "Results" section.  
 
