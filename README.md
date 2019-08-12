@@ -28,7 +28,7 @@ After entering a bill amount and percent amount, user should press "Run The Numb
 The tip amount and the final bill including tip will show in the "Results" section.  
 
 ## [Extra Features](#extra-features)
-Under the header to the right, there is an upated date and time stamp.  
+Under the header to the right, there is an updated date and time stamp.  
 Under the header to the left, the server is a link to my GitHub.  
 Under server, there is a random table number set between 1 - 15.  
 
